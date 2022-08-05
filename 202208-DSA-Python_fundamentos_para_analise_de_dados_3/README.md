@@ -127,6 +127,55 @@ Clique então no botão verde “Code” e clique em “Download”.Caso tenha p
 #### Usando o Google Colab - 07:53
 #### Bibliografia Python - 03:35
 #### Bibliografia, Referências e Links Úteis - 0 Páginas
+
+- Por Que Todos Deveriam Aprender a Programar?
+https://www.youtube.com/watch?v=mHW1Hsqlp6ACode.orghttps://code.org
+
+- O Incrível Crescimento da Linguagem Python
+https://blog.dsacademy.com.br/o-incrivel-crescimento-da-linguagem-python/
+
+- Por que Cientistas de Dados escolhem Python?
+https://blog.dsacademy.com.br/?s=Por+que+cientistas+de+Dados+escolhem+Python
+
+- Python
+https://www.python.org/Anacondahttps://www.anaconda.com/
+
+- PyCharm
+https://www.jetbrains.com/pycharm/
+
+- Sublime Text3
+https://www.sublimetext.com/3
+
+- Spyder
+https://pythonhosted.org/spyder/
+
+- Rodeo
+http://rodeo.yhat.com/
+
+- Jupyter Notebook
+http://jupyter.org/Cientista de Dados 
+
+- Por Onde Começar em 8 Passos(passo 2 com detalhes sobre hardware)
+https://blog.dsacademy.com.br/cientista-de-dados-por-onde-comecar-em-8-passos/
+
+- Jupyter Lab
+https://github.com/jupyterlab/jupyterlab
+
+- Python Fundamentos Para Análise de Dados
+https://github.com/dsacademybr
+
+- Deep Learning Book
+http://www.deeplearningbook.com.br
+
+- Python Docs
+https://docs.python.org/3/
+
+- Formação Cientista de Dados
+https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados
+
+- Formação Inteligência Artificial
+https://www.datascienceacademy.com.br/bundle/formacao-inteligencia-artificial
+
 #### E-book Guia de Estudo e Aprendizagem da Data Science Academy - 0 Páginas
 ### 2. Variáveis, Tipos e Estruturas de Dados
 #### Introdução - 02:08
@@ -153,6 +202,22 @@ Clique então no botão verde “Code” e clique em “Download”.Caso tenha p
 #### Lab 01 - Desenvolvendo Game em Python - 08:46
 #### Quiz - 5 questões
 #### Bibliografia, Referências e Links Úteis - 0 Páginas
+
+- Documentação Python
+https://docs.python.org/release/3.6.4/Python 
+
+- DEV
+https://www.python.org/dev/
+
+- Python ou R Para Análise de Dados
+http://www.cienciaedados.com/r-ou-python-para-analise-de-dados/
+
+- Big Data Real-Time Analytics com Python e Spark
+https://www.datascienceacademy.com.br/course/analise-de-dados-com-python
+
+- Repositório do Curso no Github
+https://github.com/dsacademybr/PythonFundamentos
+
 ### 3. Loops, Condicionais, Métodos e Funções
 #### Introdução - 03:20
 #### Solução Lab01 - 0 Páginas
