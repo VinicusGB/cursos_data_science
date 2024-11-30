@@ -1,0 +1,37 @@
+# DISCIPLINA: MÉTODOS QUANTITATIVOS DE APOIA À DECISÃO
+
+# TEMA 01 - ESTATISTICA: CONCEITOS BÁSICOS
+
+## O QUE É ESTATÍSTICA?
+Ramo da matemática que coleta, organiza, analisa e interpreta dados a fim de obter informações relevantes para a tomada de decisões.
+Dividi-se em duas áreas: Estatística Descritiva e Estatística Inferencial.
+
+### ESTATÍSTICA DESCRITIVA
+É a parte da estatística que se preocupa em descrever e sumarizar os dados. A estatística descritiva é a etapa inicial de qualquer análise estatística. Ela é responsável por organizar, resumir e apresentar os dados de forma clara e objetiva, facilitando a interpretação dos mesmos.
+
+# TEMA 02 - PROBABILIDADE: CONCEITOS E TEOREMAS FUNDAMENTAIS
+
+## VARIÁVEIS
+Variável é uma característica que pode ser medida ou observada em diferentes elementos de uma população ou amostra. As variáveis podem ser classificadas em qualitativas e quantitativas.
+
+### VARIÁVEIS QUALITATIVAS
+As variáveis qualitativas são aquelas que representam uma qualidade ou uma característica dos elementos da população ou amostra. Elas podem ser classificadas em nominais e ordinais.
+
+#### VARIÁVEIS QUALITATIVAS NOMINAIS
+As variáveis qualitativas nominais são aquelas que representam uma qualidade ou uma característica dos elementos da população ou amostra que não podem ser ordenadas. Exemplos: sexo, cor dos olhos, estado civil, etc.
+- ***Exemplo:*** Sexo, Cor dos olhos, Estado civil, etc.
+
+#### VARIÁVEIS QUALITATIVAS ORDINAIS
+As variáveis qualitativas ordinais são aquelas que representam uma qualidade ou uma característica dos elementos da população ou amostra que podem ser ordenadas. Exemplos: escolaridade, classe social, grau de satisfação, etc.
+- ***Exemplo:*** Escolaridade, Classe social, Grau de satisfação, etc.
+
+### VARIÁVEIS QUANTITATIVAS
+As variáveis quantitativas são aquelas que representam uma quantidade ou uma contagem dos elementos da população ou amostra. Elas podem ser classificadas em discretas e contínuas.
+
+#### VARIÁVEIS QUANTITATIVAS DISCRETAS
+As variáveis quantitativas discretas são aquelas que representam uma quantidade ou uma contagem dos elementos da população ou amostra que assumem valores inteiros. Exemplos: número de filhos, número de carros, número de livros lidos, etc.
+- ***Exemplo:*** Número de filhos, Número de carros, Número de livros lidos, etc.
+
+#### VARIÁVEIS QUANTITATIVAS CONTÍNUAS
+As variáveis quantitativas contínuas são aquelas que representam uma quantidade ou uma contagem dos elementos da população ou amostra que assumem valores reais. Exemplos: altura, peso, temperatura, etc.
+- ***Exemplo:*** Altura, Peso, Temperatura, etc.
